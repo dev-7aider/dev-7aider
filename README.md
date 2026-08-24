@@ -95,9 +95,7 @@ Flutter app for tracking missed prayer make-up (قضاء الصلاة), with a d
 
   <p align="center">
     <a href="https://github.com/dev-7aider/surrah"><img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dev-7aider&repo=surrah&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=38bdae" alt="surrah"></a>
-    <a href="https://github.com/dev-7aider/my_pocket"><img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dev-7aider&repo=my_pocket&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=38bdae" alt="my_pocket"></a>
-    <a href="https://github.com/dev-7aider/Store_App"><img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dev-7aider&repo=Store_App&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=38bdae" alt="Store_App"></a>
-    <a href="https://github.com/dev-7aider/the-first-nest-proj"><img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dev-7aider&repo=the-first-nest-proj&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=38bdae" alt="the-first-nest-proj"></a>
+    
   </p>
 
   <p align="center">
