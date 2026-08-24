@@ -89,25 +89,64 @@ Flutter app for tracking missed prayer make-up (قضاء الصلاة), with a d
 </tr>
 </table>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
 
-**Mobile & Frontend**
+### 📱 Mobile & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,js,html,css,tailwind&perline=9" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
 <br>
-<img src="https://skillicons.dev/icons?i=flutter,dart,ts,nextjs,html,css,tailwind" />
 
-<br><br>
+### ⚙️ Backend, Databases & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,supabase,firebase,prisma&perline=6" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" />
+</p>
 
-**Backend & Data**
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,firebase" />
 
-<br><br>
+### 🏛️ Architecture & State Management
+<p>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-1f6feb?style=for-the-badge&logo=blueprint&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM%20%2F%20PVM-0ea5e9?style=for-the-badge&logo=codewars&logoColor=white" />
+  <img src="https://img.shields.io/badge/Riverpod-00599C?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Provider-2E7D32?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hive%20DB-FFA000?style=for-the-badge&logo=hive&logoColor=white" />
+</p>
 
-**Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+### 🤖 AI Engineering & Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,docker&perline=6" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Antigravity%20IDE-6366F1?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 </div>
 
