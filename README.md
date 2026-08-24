@@ -8,9 +8,11 @@
 [![Follow](https://img.shields.io/github/followers/Xx-COBA-xX?label=Follow&style=social)](https://github.com/Xx-COBA-xX)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Hi,%20I'm%20Haider&fontSize=45&fontColor=ffffff&desc=Flutter%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-7aider/Xx-COBA-xX/main/dark_mode.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-7aider/Xx-COBA-xX/main/light_mode.svg#gh-light-mode-only">
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/dev-7aider/Xx-COBA-xX/main/dark_mode.svg" width="100%">
+</picture>
 <div align="center">
 
 <img src="https://img.shields.io/badge/-Arabic--First%20Product%20Builder-1f6feb?style=for-the-badge&labelColor=0d1117" />
@@ -115,11 +117,7 @@ Flutter app for tracking missed prayer make-up (قضاء الصلاة), with a d
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-7aider/Xx-COBA-xX/main/dark_mode.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-7aider/Xx-COBA-xX/main/light_mode.svg#gh-light-mode-only">
-  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/dev-7aider/Xx-COBA-xX/main/dark_mode.svg" width="100%">
-</picture>
+
 
 <br><br>
 
