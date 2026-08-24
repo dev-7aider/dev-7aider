@@ -2,9 +2,9 @@
 
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-7aider/Xx-COBA-xX/main/dark_mode-2.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-7aider/Xx-COBA-xX/main/light_mode-2.svg#gh-light-mode-only">
-  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/dev-7aider/Xx-COBA-xX/main/dark_mode-2.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-7aider/dev-7aider/main/dark_mode-2.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-7aider/dev-7aider/main/light_mode-2.svg#gh-light-mode-only">
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/dev-7aider/dev-7aider/main/dark_mode-2.svg" width="100%">
 </picture>
 <div align="center">
 ### Haider Al Timamy
