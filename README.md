@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/light_mode.svg">
-  <img alt="Haider Al Timamy — GitHub Profile Card" src="assets/dark_mode.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Xx-COBA-xX's GitHub profile" src="dark_mode.svg" />
 </picture>
 
 <br>
