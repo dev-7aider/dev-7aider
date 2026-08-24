@@ -5,7 +5,7 @@
 ### Haider Al Timamy
 **AV Professional · Flutter & Full-Stack Developer**
 
-[![Follow](https://img.shields.io/github/followers/Xx-COBA-xX?label=Follow&style=social)](https://github.com/Xx-COBA-xX)
+[![Follow](https://img.shields.io/github/followers/dev-7aider?label=Follow&style=social)](https://github.com/dev-7aider)
 
 </div>
 <picture>
