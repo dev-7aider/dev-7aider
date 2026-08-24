@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/107849735?v=4" width="120" alt="Haider Al Timamy" />
-
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-7aider/Xx-COBA-xX/main/dark_mode-2.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-7aider/Xx-COBA-xX/main/light_mode-2.svg#gh-light-mode-only">
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/dev-7aider/Xx-COBA-xX/main/dark_mode-2.svg" width="100%">
+</picture>
+<div align="center">
 ### Haider Al Timamy
 **AV Professional · Flutter & Full-Stack Developer**
 
 [![Follow](https://img.shields.io/github/followers/dev-7aider?label=Follow&style=social)](https://github.com/dev-7aider)
-
-</div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-7aider/Xx-COBA-xX/main/dark_mode.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-7aider/Xx-COBA-xX/main/light_mode.svg#gh-light-mode-only">
-  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/dev-7aider/Xx-COBA-xX/main/dark_mode.svg" width="100%">
-</picture>
-<div align="center">
+<br>
 
 <img src="https://img.shields.io/badge/-Arabic--First%20Product%20Builder-1f6feb?style=for-the-badge&labelColor=0d1117" />
 
