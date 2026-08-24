@@ -117,16 +117,12 @@ Flutter app for tracking missed prayer make-up (قضاء الصلاة), with a d
 
 <div align="center">
 
-
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=dev-7aider&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-7aider&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
 <img src="https://streak-stats.demolab.com/?user=dev-7aider&theme=tokyonight&hide_border=true" height="165" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-7aider&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-7aider&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
