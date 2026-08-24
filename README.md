@@ -1,104 +1,150 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Xx-COBA-xX's GitHub profile" src="dark_mode.svg" />
-</picture>
+<img src="https://avatars.githubusercontent.com/u/107849735?v=4" width="110" style="border-radius:50%" />
 
-<br>
+### Haider Al Timamy
+**AV Professional · Flutter & Full-Stack Developer**
 
-<img src="https://img.shields.io/badge/-%C2%B7%C2%B7%C2%B7-d4af37?style=flat-square&labelColor=0d1117" width="100%" height="2">
+[![Follow](https://img.shields.io/github/followers/Xx-COBA-xX?label=Follow&style=social)](https://github.com/Xx-COBA-xX)
 
-### Software Engineer · Flutter Developer
+</div>
 
-*Building scalable apps with Flutter, Node.js & Next.js — exploring AI, backend systems & modern software architecture.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Hi,%20I'm%20Haider&fontSize=45&fontColor=ffffff&desc=Flutter%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-Arabic--First%20Product%20Builder-1f6feb?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
 <br>
 
-<table align="center">
+## 📌 About Me
+
+Software engineer working full-time in the AV (Audio Visual) department of a hotel, and building mobile & web applications on the side. Comfortable moving between operational tech on the job and product development after hours — Flutter for mobile, Next.js/TypeScript for web, with Arabic RTL treated as the default layout, not an afterthought.
+
+## ⚡ What Drives Me
+
+- Turning real operational pain points at work into actual software (asset tracking, feedback systems)
+- Building tools people will use daily — not portfolio filler
+- Designing Arabic-first interfaces properly, from RTL layout to typography
+- Shipping small, focused apps rather than bloated ones
+
+## 🚀 Featured Projects
+
+<table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### ⟡ About
+**AV Asset Management System**
+Internal inventory & asset tracking system for a hotel's AV department — built to replace manual tracking with a real audit trail.
 
-```
-company     Grand Millennium Al Seef Basra
-location    Basrah, Iraq
-site        haider-al-timamy.vercel.app
-focus       Flutter · Next.js · TypeScript
-currently   Building T Store App
-learning    Node.js · Express · MongoDB
-```
+- Three-role auth model (Staff / Engineer / Admin)
+- Append-only movement log + before/after audit snapshots
+- Companion Flutter app: dark theme, Arabic RTL, 5-tab nav
+
+`Next.js 15` `PostgreSQL` `Prisma` `Tailwind v4` `Flutter`
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### ⟡ Connect
+**Pockaw** — Personal Finance App
+Flutter finance tracker with income/expense tracking and a built-in Shia Islamic khums calculation engine.
 
-<div>
-<a href="mailto:haider.new.it@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=d4af37" /></a>
-<a href="https://www.linkedin.com/in/haider-al-tamimi-45022b266/"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=d4af37" /></a>
-<br>
-<a href="https://haider-al-timamy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=d4af37" /></a>
-<a href="https://t.me/dev_7aider"><img src="https://img.shields.io/badge/Telegram-1a1a1a?style=for-the-badge&logo=telegram&logoColor=d4af37" /></a>
-<br>
-<a href="https://www.instagram.com/dev_7aider/"><img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=d4af37" /></a>
-<a href="https://ko-fi.com/V7V4RAK9C"><img src="https://img.shields.io/badge/Ko--fi-1a1a1a?style=for-the-badge&logo=kofi&logoColor=d4af37" /></a>
-</div>
+- Five chart types for statistics & reports
+- Home screen widgets on both Android and iOS
+- Full Arabic localization
+
+`Flutter` `Riverpod` `Hive` `go_router`
 
 </td>
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**QR Feedback System**
+Self-hosted QR-code feedback platform for restaurants, with AI-assisted feedback analysis.
+
+- Multi-level admin auth (Super Admin + roles)
+- Bad-feedback action tracking
+- Migrated off Prisma Cloud to a self-hosted VPS
+
+`Next.js 16` `PostgreSQL` `Groq SDK` `shadcn/ui`
+
+</td>
+<td width="50%" valign="top">
+
+**Zad** — Prayer Qada Tracker
+Flutter app for tracking missed prayer make-up (قضاء الصلاة), with a dedicated Islamic-inspired design system.
+
+- Emerald / cream / gold palette, geometric motifs
+- Arabic-native typography (Noto Kufi / IBM Plex Sans Arabic)
+
+`Flutter` `Dart`
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech Stack
+
+**Mobile & Frontend**
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+**Backend & Data**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+## 📊 GitHub Analytics
+
 <div align="center">
-<img src="https://img.shields.io/badge/-%C2%B7%C2%B7%C2%B7-d4af37?style=flat-square&labelColor=0d1117" width="100%" height="2">
+<img src="https://github-readme-stats.vercel.app/api?username=Xx-COBA-xX&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Xx-COBA-xX&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
-
-### ⟡ Craft
-
-<img src="https://img.shields.io/badge/Flutter-1a1a1a?style=for-the-badge&logo=flutter&logoColor=d4af37" />
-<img src="https://img.shields.io/badge/Dart-1a1a1a?style=for-the-badge&logo=dart&logoColor=d4af37" />
-<img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=d4af37" />
-<img src="https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=nextdotjs&logoColor=d4af37" />
-<br>
-<img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=d4af37" />
-<img src="https://img.shields.io/badge/Firebase-1a1a1a?style=for-the-badge&logo=firebase&logoColor=d4af37" />
-<img src="https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=d4af37" />
-<img src="https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=d4af37" />
-<br>
-<img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=d4af37" />
-<img src="https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=d4af37" />
-<img src="https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=d4af37" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xx-COBA-xX&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
-<br>
+## 🎯 Current Focus
 
-<div align="center">
-<img src="https://img.shields.io/badge/-%C2%B7%C2%B7%C2%B7-d4af37?style=flat-square&labelColor=0d1117" width="100%" height="2">
-</div>
+```javascript
+const haider = {
+  role: "AV Professional / Full-Stack Developer",
+  currentlyBuilding: "AV Asset Management System",
+  activeProjects: ["Pockaw", "Zad", "QR Feedback System"],
+  stack: ["Flutter", "Next.js", "TypeScript", "PostgreSQL"],
+  approach: "Arabic RTL by default, not retrofitted"
+};
+```
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-### ⟡ Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Xx-COBA-xX&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Xx-COBA-xX&theme=dark&hide_border=true&background=0d1117&ring=d4af37&fire=d4af37&currStreakLabel=d4af37" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xx-COBA-xX&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=d4af37&text_color=c9d1d9" height="165" />
+<a href="mailto:haider.new.it@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/haider-al-tamimi-45022b266/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://haider-al-timamy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://t.me/dev_7aider"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 </div>
 
-<br>
-
-<div align="center">
-<img src="https://img.shields.io/badge/-%C2%B7%C2%B7%C2%B7-d4af37?style=flat-square&labelColor=0d1117" width="100%" height="2">
-
-<sub>Thanks for stopping by ✦ <img src="https://komarev.com/ghpvc/?username=Xx-COBA-xX&label=Profile+Views&color=d4af37&style=flat" /></sub>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
