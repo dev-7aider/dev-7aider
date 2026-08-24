@@ -49,7 +49,7 @@ Internal inventory & asset tracking system for a hotel's AV department — built
 </td>
 <td width="50%" valign="top">
 
-**Pockaw** — Personal Finance App
+**SURRAH** — Personal Finance App
 Flutter finance tracker with income/expense tracking and a built-in Shia Islamic khums calculation engine.
 
 - Five chart types for statistics & reports
