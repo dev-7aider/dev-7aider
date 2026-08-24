@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/107849735?v=4" width="110" style="border-radius:50%" />
+<img src="https://avatars.githubusercontent.com/u/107849735?v=4" width="120" alt="Haider Al Timamy" />
 
 ### Haider Al Timamy
 **AV Professional · Flutter & Full-Stack Developer**
@@ -91,33 +91,31 @@ Flutter app for tracking missed prayer make-up (قضاء الصلاة), with a d
 
 ## 🛠️ Tech Stack
 
-**Mobile & Frontend**
+<div align="center">
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+**Mobile & Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart,ts,nextjs,html,css,tailwind" />
+
+<br><br>
 
 **Backend & Data**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,firebase" />
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<br><br>
 
 **Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Xx-COBA-xX&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Xx-COBA-xX&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://streak-stats.demolab.com/?user=Xx-COBA-xX&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
