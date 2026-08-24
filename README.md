@@ -114,12 +114,22 @@ Flutter app for tracking missed prayer make-up (قضاء الصلاة), with a d
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Xx-COBA-xX&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://streak-stats.demolab.com/?user=Xx-COBA-xX&theme=tokyonight&hide_border=true" height="165" />
-</div>
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg">
+  <img alt="Xx-COBA-xX GitHub Stats" src="./dark_mode.svg" width="100%">
+</picture>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Xx-COBA-xX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://streak-stats.demolab.com/?user=Xx-COBA-xX&theme=tokyonight&hide_border=true" height="165" />
+
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xx-COBA-xX&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
 </div>
 
 ## 🎯 Current Focus
