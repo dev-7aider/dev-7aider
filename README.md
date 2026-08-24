@@ -7,6 +7,7 @@
   <img alt="GitHub Stats" src="https://raw.githubusercontent.com/dev-7aider/dev-7aider/main/dark_mode-2.svg" width="100%">
 </picture>
 <div align="center">
+
 ### Haider Al Timamy
 **AV Professional · Flutter & Full-Stack Developer**
 
@@ -171,7 +172,7 @@ Flutter app for tracking missed prayer make-up (قضاء الصلاة), with a d
 const haider = {
   role: "AV Professional / Full-Stack Developer",
   currentlyBuilding: "AV Asset Management System",
-  activeProjects: ["Pockaw", "Zad", "QR Feedback System"],
+  activeProjects: ["SURRAH", "Zad", "QR Feedback System"],
   stack: ["Flutter", "Next.js", "TypeScript", "PostgreSQL"],
   approach: "Arabic RTL by default, not retrofitted"
 };
