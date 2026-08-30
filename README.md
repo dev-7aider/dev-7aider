@@ -14,8 +14,6 @@
 [![Follow](https://img.shields.io/github/followers/dev-7aider?label=Follow&style=social)](https://github.com/dev-7aider)
 <br>
 
-<img src="https://img.shields.io/badge/-Arabic--First%20Product%20Builder-1f6feb?style=for-the-badge&labelColor=0d1117" />
-
 </div>
 
 <br>
